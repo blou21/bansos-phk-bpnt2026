@@ -1,0 +1,25 @@
+# Composer files
+/composer.lock
+
+# Dependency directory
+/vendor/
+
+# Environment files
+/.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# IDE or editor files
+/.idea/
+/.vscode/
+
+# MacOS specific files
+*.swp
+
+node_modules/
+
